@@ -1,0 +1,58 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,region,canal
+2024-01-05,Laptop Pro 15,Tecnología,3,1200.00,Ana López,Norte,Online
+2024-01-06,Mouse Inalámbrico,Accesorios,15,25.00,Carlos Ruiz,Sur,Tienda
+2024-01-07,Teclado Mecánico,Accesorios,8,85.00,Ana López,Norte,Online
+2024-01-08,Monitor 27",Tecnología,2,350.00,María García,Centro,Tienda
+2024-01-09,Laptop Pro 15,Tecnología,1,1200.00,Luis Pérez,Este,Online
+2024-01-10,Audífonos BT,Accesorios,20,60.00,Carlos Ruiz,Sur,Online
+2024-01-11,Tablet 10",Tecnología,5,400.00,Ana López,Norte,Tienda
+2024-01-12,Mouse Inalámbrico,Accesorios,30,25.00,María García,Centro,Online
+2024-01-13,Webcam HD,Accesorios,12,70.00,Luis Pérez,Este,Tienda
+2024-01-14,Laptop Pro 15,Tecnología,4,1200.00,Ana López,Norte,Online
+2024-01-15,SSD 1TB,Almacenamiento,9,110.00,Carlos Ruiz,Sur,Online
+2024-01-16,Monitor 27",Tecnología,3,350.00,María García,Centro,Online
+2024-01-17,Audífonos BT,Accesorios,25,60.00,Luis Pérez,Este,Tienda
+2024-01-18,Teclado Mecánico,Accesorios,6,85.00,Ana López,Norte,Online
+2024-01-19,SSD 1TB,Almacenamiento,7,110.00,Carlos Ruiz,Sur,Tienda
+2024-01-20,Tablet 10",Tecnología,2,400.00,María García,Centro,Online
+2024-02-01,Laptop Pro 15,Tecnología,10,1200.00,Ana López,Norte,Online
+2024-02-02,Mouse Inalámbrico,Accesorios,40,25.00,Carlos Ruiz,Sur,Tienda
+2024-02-03,Monitor 27",Tecnología,6,350.00,Luis Pérez,Este,Online
+2024-02-04,Audífonos BT,Accesorios,35,60.00,María García,Centro,Tienda
+2024-02-05,Webcam HD,Accesorios,18,70.00,Ana López,Norte,Online
+2024-02-06,SSD 1TB,Almacenamiento,14,110.00,Carlos Ruiz,Sur,Online
+2024-02-07,Teclado Mecánico,Accesorios,11,85.00,María García,Centro,Tienda
+2024-02-08,Tablet 10",Tecnología,8,400.00,Luis Pérez,Este,Online
+2024-02-09,Laptop Pro 15,Tecnología,7,1200.00,Ana López,Norte,Tienda
+2024-02-10,Mouse Inalámbrico,Accesorios,22,25.00,Carlos Ruiz,Sur,Online
+2024-03-01,Laptop Pro 15,Tecnología,15,1200.00,Ana López,Norte,Online
+2024-03-02,Audífonos BT,Accesorios,50,60.00,Carlos Ruiz,Sur,Online
+2024-03-03,Monitor 27",Tecnología,8,350.00,María García,Centro,Tienda
+2024-03-04,SSD 1TB,Almacenamiento,20,110.00,Luis Pérez,Este,Online
+2024-03-05,Tablet 10",Tecnología,12,400.00,Ana López,Norte,Tienda
+2024-03-06,Webcam HD,Accesorios,25,70.00,Carlos Ruiz,Sur,Online
+2024-03-07,Teclado Mecánico,Accesorios,18,85.00,María García,Centro,Online
+2024-03-08,Laptop Pro 15,Tecnología,9,1200.00,Luis Pérez,Este,Tienda
+2024-03-09,Mouse Inalámbrico,Accesorios,60,25.00,Ana López,Norte,Online
+2024-03-10,Monitor 27",Tecnología,4,350.00,Carlos Ruiz,Sur,Online
+2024-11-15,Laptop Pro 15,Tecnología,25,1200.00,Ana López,Norte,Online
+2024-11-16,Mouse Inalámbrico,Accesorios,80,25.00,Carlos Ruiz,Sur,Online
+2024-11-17,Audífonos BT,Accesorios,90,60.00,María García,Centro,Tienda
+2024-11-18,Tablet 10",Tecnología,30,400.00,Luis Pérez,Este,Online
+2024-11-19,SSD 1TB,Almacenamiento,45,110.00,Ana López,Norte,Tienda
+2024-11-20,Monitor 27",Tecnología,20,350.00,Carlos Ruiz,Sur,Online
+2024-11-21,Laptop Pro 15,Tecnología,35,1200.00,María García,Centro,Online
+2024-11-22,Teclado Mecánico,Accesorios,40,85.00,Luis Pérez,Este,Tienda
+2024-11-25,Laptop Pro 15,Tecnología,50,1200.00,Ana López,Norte,Online
+2024-11-26,Audífonos BT,Accesorios,120,60.00,Carlos Ruiz,Sur,Online
+2024-11-27,Mouse Inalámbrico,Accesorios,100,25.00,María García,Centro,Online
+2024-11-28,Tablet 10",Tecnología,45,400.00,Luis Pérez,Este,Online
+2024-12-01,Laptop Pro 15,Tecnología,60,1200.00,Ana López,Norte,Online
+2024-12-02,Audífonos BT,Accesorios,150,60.00,Carlos Ruiz,Sur,Tienda
+2024-12-03,Monitor 27",Tecnología,25,350.00,María García,Centro,Online
+2024-12-05,SSD 1TB,Almacenamiento,55,110.00,Luis Pérez,Este,Online
+2024-12-10,Laptop Pro 15,Tecnología,70,1200.00,Ana López,Norte,Online
+2024-12-15,Tablet 10",Tecnología,40,400.00,Carlos Ruiz,Sur,Online
+2024-12-20,Mouse Inalámbrico,Accesorios,200,25.00,María García,Centro,Tienda
+2024-12-24,Audífonos BT,Accesorios,180,60.00,Luis Pérez,Este,Online
+2024-12-25,Laptop Pro 15,Tecnología,45,1200.00,Ana López,Norte,Online

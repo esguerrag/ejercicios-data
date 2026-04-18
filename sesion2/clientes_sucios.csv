@@ -1,0 +1,36 @@
+id_cliente,nombre,edad,email,telefono,ciudad,ingreso_anual,segmento,fecha_registro,compras_ultimo_año
+1,Juan Pérez,34,juan.perez@email.com,555-1234,Ciudad de México,45000,Premium,2022-03-15,12
+2,María García,,maria.garcia@email.com,555-5678,Guadalajara,62000,Premium,2022-04-20,18
+3,Carlos López,27,carlos.lopez,555-9012,Monterrey,28000,Básico,2022-05-10,4
+4,Ana Martínez,31,ana.martinez@email.com,,CDMX,51000,Premium,2022-06-01,15
+5,Roberto Sánchez,450,roberto.s@email.com,555-3456,Puebla,33000,Básico,2022-06-15,6
+6,Laura Torres,29,laura.torres@email.com,555-7890,Guadalajara,29000,Básico,2022-07-20,3
+7,Miguel Flores,41,MIGUEL.FLORES@EMAIL.COM,555-2345,Ciudad de México,78000,VIP,2022-08-05,30
+8,Sofía Ramírez,36,sofia.ramirez@email.com,555-6789,Monterrey,,VIP,2022-08-20,25
+9,Diego Hernández,23,diego.h@email.com,555-0123,Puebla,22000,Básico,2022-09-10,2
+10,Valentina Cruz,38,valentina.cruz@email.com,555-4567,CDMX,58000,Premium,2022-09-25,14
+11,Andrés Morales,44,andres.morales@email.com,555-8901,Guadalajara,91000,VIP,2022-10-15,35
+12,Camila Jiménez,-5,camila.j@email.com,555-2346,Ciudad de México,47000,Premium,2022-11-01,11
+13,Fernando Díaz,52,fernando.diaz@email.com,555-6790,Monterrey,125000,VIP,2022-11-20,42
+14,Isabella Vargas,19,isabella.v@email.com,,Puebla,18000,Básico,2022-12-05,1
+15,Alejandro Ríos,33,alejandro.rios@email.com,555-0124,Ciudad de México,53000,Premium,2023-01-10,13
+16,Natalia Mendoza,28,natalia.mendoza,555-4568,Guadalajara,31000,Básico,2023-01-25,5
+17,Sebastián Castro,47,sebastian.c@email.com,555-8902,Monterrey,88000,VIP,2023-02-15,28
+18,Mariana Reyes,35,mariana.reyes@email.com,555-2347,CDMX,49000,Premium,2023-03-01,10
+19,Daniel Ortega,,daniel.ortega@email.com,555-6791,Puebla,26000,Básico,2023-03-20,3
+20,Gabriela Núñez,42,gabriela.n@email.com,555-0125,Ciudad de México,72000,VIP,2023-04-10,22
+21,Emilio Guerrero,30,emilio.guerrero@email.com,555-4569,Guadalajara,38000,Básico,2023-05-01,7
+22,Paulina Aguilar,25,paulina.aguilar@email.com,555-8903,Monterrey,27000,Básico,2023-05-20,4
+23,Ricardo Peña,999,ricardo.p@email.com,555-2348,Puebla,44000,Premium,2023-06-10,9
+24,Lucía Castillo,39,lucia.castillo@email.com,555-6792,Ciudad de México,66000,Premium,2023-07-01,17
+25,Tomás Medina,55,tomas.medina@email.com,555-0126,CDMX,110000,VIP,2023-07-20,38
+26,Elena Rojas,31,elena.rojas@email.com,,Guadalajara,35000,Básico,2023-08-10,6
+27,Pablo Herrera,26,pablo.herrera@email.com,555-4570,Monterrey,24000,Básico,2023-08-25,2
+28,Valeria Molina,43,valeria.m@email.com,555-8904,Ciudad de México,82000,VIP,2023-09-15,26
+29,Hugo Delgado,37,hugo.delgado@email.com,555-2349,Puebla,56000,Premium,2023-10-01,16
+30,Claudia Ramos,22,claudia.ramos@email.com,555-6793,Guadalajara,,Básico,2023-10-20,1
+31,Arturo Vega,48,arturo.vega@email.com,555-0127,CDMX,95000,VIP,2023-11-10,33
+32,Renata Ibarra,34,renata.ibarra@email.com,555-4571,Monterrey,50000,Premium,2023-11-25,12
+33,Óscar Salinas,29,oscar.salinas@email.com,555-8905,Ciudad de México,30000,Básico,2023-12-15,5
+34,Mónica Fuentes,0,monica.f@email.com,555-2350,Puebla,42000,Básico,2024-01-05,8
+35,Ernesto Luna,53,ernesto.luna@email.com,555-6794,Guadalajara,105000,VIP,2024-01-20,40
