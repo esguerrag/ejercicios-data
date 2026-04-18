@@ -16,7 +16,7 @@ Usando los resultados del modelo de churn o los datos de ventas:
 - ¿Hay algún riesgo que la IA no mencionó?
 - ¿Qué segmento de clientes requiere atención inmediata?
 
-**Entregable:** `narrativa_ia.md` (narrativa de la IA + tus 2 conclusiones)
+**Resultado de la actividad:** `narrativa_ia.md` (narrativa de la IA + tus 2 conclusiones)
 
 ---
 
@@ -35,4 +35,4 @@ Criterios de evaluación:
 
 Exporta el dashboard como imagen o PDF y guárdalo en la carpeta `dashboard/`.
 
-**Entregable:** archivo en `dashboard/` + descripción en `narrativa_ia.md`
+**Resultado de la actividad:** archivo en `dashboard/` + descripción en `narrativa_ia.md`

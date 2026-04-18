@@ -12,7 +12,7 @@ Genera un archivo `reporte_problemas.md` listando cada problema encontrado, indi
 - Tipo de problema
 - Filas involucradas
 
-**Entregable:** `reporte_problemas.md`
+**Resultado de la actividad:** `reporte_problemas.md`
 
 ---
 
@@ -30,4 +30,4 @@ Preguntas guía:
 
 Luego genera `clientes_limpios.csv` con las correcciones que decidiste aplicar.
 
-**Entregable:** `decisiones_limpieza.md` + `clientes_limpios.csv`
+**Resultado de la actividad:** `decisiones_limpieza.md` + `clientes_limpios.csv`

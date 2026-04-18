@@ -8,7 +8,7 @@ Dado el dataset `ventas_retail.csv`:
 2. Copia la respuesta generada en un archivo `exploracion.md`.
 3. Identifica **2 conclusiones** del análisis que no tendrían sentido sin conocer el negocio. Escríbelas debajo con tu interpretación.
 
-**Entregable:** `exploracion.md` con el análisis de la IA + tus 2 observaciones al final.
+**Resultado de la actividad:** `exploracion.md` con el análisis de la IA + tus 2 observaciones al final.
 
 ---
 
@@ -26,4 +26,4 @@ Para cada pregunta documenta:
 - La respuesta que dio la IA
 - Si necesitaste agregar contexto adicional para que la respuesta fuera útil
 
-**Entregable:** `preguntas_negocio.md`
+**Resultado de la actividad:** `preguntas_negocio.md`

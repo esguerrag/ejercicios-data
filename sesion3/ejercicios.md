@@ -11,7 +11,7 @@ En Google Colab, usando el dataset `churn_clientes.csv`:
 **Prompt sugerido para la IA:**
 > "Tengo un dataset CSV con clientes de telecomunicaciones. La columna objetivo es 'churn' (1 = canceló, 0 = sigue activo). Genera el código Python para entrenar un modelo de clasificación básico y mostrar sus métricas principales."
 
-**Entregable:** `modelo_churn.ipynb`
+**Resultado de la actividad:** `modelo_churn.ipynb`
 
 ---
 
@@ -26,4 +26,4 @@ La IA probablemente eligió `accuracy` como métrica principal. Responde en `eva
 
 **Pista:** Piensa en el costo de un falso negativo (predecir que el cliente NO se va, cuando sí se va) vs. un falso positivo.
 
-**Entregable:** `evaluacion_metrica.md`
+**Resultado de la actividad:** `evaluacion_metrica.md`
