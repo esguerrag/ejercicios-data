@@ -1,38 +1,25 @@
-# Sesión 4 – Storytelling con datos con IA
+# Implementación Metodológica con IA – Big Data & Data Science
 
-## Ejercicio 4.1 – Narrativa con IA
+Bienvenidos al repositorio de ejercicios prácticos del curso. Este espacio está diseñado para que apliquemos herramientas de Inteligencia Artificial (IA) en las diferentes etapas del ciclo de vida de los datos, desde la exploración inicial hasta la presentación estratégica de resultados.
 
-Usando los resultados del modelo de churn o los datos de ventas:
+La metodología está diseñada para complementar el contenido teórico-técnico desarrollado en clase, no para reemplazarlo. En cada sesión utilizaremos la IA como un asistente analítico, pero el valor real provendrá de la interpretación humana y el criterio de negocio.
 
-1. Pide a ChatGPT que genere una narrativa ejecutiva de 3 párrafos orientada a un gerente comercial, explicando los hallazgos principales.
-2. Guarda la narrativa generada por la IA en `narrativa_ia.md`.
-3. Edita o complementa la narrativa agregando al menos **2 conclusiones orientadas a decisión** que la IA no incluyó o no contextualizó correctamente.
+## 📂 Selección de Datasets
 
-**Prompt sugerido para la IA:**
-> "Eres un analista de datos. Escribe una narrativa ejecutiva de 3 párrafos para un gerente comercial basada en estos hallazgos: [pega tus hallazgos]. Incluye qué está pasando, por qué importa y qué se recomienda hacer."
+Para estos ejercicios, puedes elegir uno de los siguientes 4 datasets ubicados en la carpeta `data/raw/`. Todos contienen datos sintéticos con errores intencionales (valores atípicos, nulos) para simular un entorno de trabajo real:
 
-**Preguntas guía para tus conclusiones adicionales:**
-- ¿Qué acción concreta debería tomar el negocio?
-- ¿Hay algún riesgo que la IA no mencionó?
-- ¿Qué segmento de clientes requiere atención inmediata?
+* **Telemetría_Servidores.csv:** Datos de rendimiento (CPU, RAM, Temperatura) en nodos Linux (Fedora, Arch, Ubuntu) para predecir fallos del sistema.
+* **Estrategia_F1.csv:** Datos de carrera (neumáticos, pitstops, temperatura de pista) para predecir si un piloto alcanzará el podio.
+* **Logistica_Mundial.csv:** Gastos de aficionados (vuelos, hoteles, días de estadía) viajando a sedes como Miami y CDMX para predecir si excederán su presupuesto.
+* **ECommerce_Churn.csv:** Interacciones de clientes (tickets de soporte, gasto total) para predecir el abandono de la plataforma.
 
-**Resultado de la actividad:** `narrativa_ia.md` (narrativa de la IA + tus 2 conclusiones)
+Elige un único dataset y utilízalo a lo largo de las 4 sesiones.
 
 ---
 
-## Ejercicio 4.2 – Dashboard básico
+**Objetivo:** Construir una narrativa visual y estratégica orientada a la toma de decisiones empresariales.
 
-Crea un dashboard en Power BI o Google Looker Studio con al menos:
+1.  Pide a la IA que genere un reporte ejecutivo (narrativa) basándose en los resultados de tu modelo de la Sesión 3.
+2.  Construye un dashboard interactivo utilizando tu herramienta de preferencia (Power BI, Google Looker Studio, Streamlit, Metabase).
+3.  Analiza el tablero y complementa la narrativa generada por la IA con al menos 2 conclusiones propias orientadas a la decisión empresarial.
 
-- **2 gráficas clave** (ej: ventas por mes, churn por segmento)
-- **1 KPI principal** con su valor actual
-- Título descriptivo y breve descripción en cada visual
-
-Criterios de evaluación:
-- ¿El dashboard responde una pregunta de negocio clara?
-- ¿Se entiende sin necesitar explicación verbal?
-- ¿Las gráficas elegidas son las más adecuadas para los datos?
-
-Exporta el dashboard como imagen o PDF y guárdalo en la carpeta `dashboard/`.
-
-**Resultado de la actividad:** archivo en `dashboard/` + descripción en `narrativa_ia.md`
