@@ -19,7 +19,7 @@ Elige un único dataset y utilízalo a lo largo de las 4 sesiones.
 
 **Objetivo:** Construir una narrativa visual y estratégica orientada a la toma de decisiones empresariales.
 
-1.  Pide a la IA que genere un reporte ejecutivo (narrativa) basándose en los resultados de tu modelo de la Sesión 3.
+1.  Pide a la IA que genere un reporte ejecutivo (narrativa) basándose en los resultados de tu modelo..
 2.  Construye un dashboard interactivo utilizando tu herramienta de preferencia (Power BI, Google Looker Studio, Streamlit, Metabase).
 3.  Analiza el tablero y complementa la narrativa generada por la IA con al menos 2 conclusiones propias orientadas a la decisión empresarial.
 
